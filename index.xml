@@ -20,11 +20,14 @@
  &lt;textarea id="message" name="message" rows="6" required placeholder="How can we help?">&lt;/textarea>
  &lt;/div>
 &lt;p>&lt;button type="submit" aria-label="Send message">Send message&lt;/button>&lt;/p>
-&lt;/form></description></item><item><title>Message sent</title><link>https://raisingorthodoxkids.com/contact/success/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://raisingorthodoxkids.com/contact/success/</guid><description>&lt;p>While you wait, you can:&lt;/p>
-&lt;ul>
-&lt;li>&lt;a href="https://raisingorthodoxkids.com/collections/">Browse our collections&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://raisingorthodoxkids.com/gifts/">Explore gifts&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://raisingorthodoxkids.com/">Return to the homepage&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://raisingorthodoxkids.com/contact/">Send another message&lt;/a>&lt;/li>
-&lt;/ul></description></item><item><title>Order Received</title><link>https://raisingorthodoxkids.com/checkout/success/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://raisingorthodoxkids.com/checkout/success/</guid><description>&lt;p>Thank you! Your payment was received. A confirmation email has been sent.&lt;/p>
+&lt;/form></description></item><item><title>Message sent</title><link>https://raisingorthodoxkids.com/contact/success/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://raisingorthodoxkids.com/contact/success/</guid><description>&lt;div class="contact-success">
+ &lt;p>Thanks for contacting us! We’ve received your message and will reply soon.&lt;/p>
+ &lt;p>While you wait, you can:&lt;/p>
+ &lt;ul>
+ &lt;li>&lt;a href="https://raisingorthodoxkids.com/collections/">Browse our collections&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="https://raisingorthodoxkids.com/gifts/">Explore gifts&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="https://raisingorthodoxkids.com/">Return to the homepage&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="https://raisingorthodoxkids.com/contact/">Send another message&lt;/a>&lt;/li>
+ &lt;/ul>
+&lt;/div></description></item><item><title>Order Received</title><link>https://raisingorthodoxkids.com/checkout/success/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://raisingorthodoxkids.com/checkout/success/</guid><description>&lt;p>Thank you! Your payment was received. A confirmation email has been sent.&lt;/p>
 &lt;p>If you have any questions, please reply to the confirmation email.&lt;/p></description></item></channel></rss>
