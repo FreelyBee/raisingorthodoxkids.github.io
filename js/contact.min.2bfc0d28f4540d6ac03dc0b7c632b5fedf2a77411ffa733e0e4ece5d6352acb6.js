@@ -3,4 +3,4 @@ document.addEventListener("DOMContentLoaded",()=>{const e=document.getElementByI
 ${o.join(`
 
 `)}
-Total: ${n(s)}`};t.addEventListener("submit",e=>{e.preventDefault();const s=new FormData(t),r=o(),i=a(r);i&&s.append("cart",i);const n=t.querySelector('button[type="submit"]');n&&(n.disabled=!0);const c="https://smartforms.dev/submit/68b0719cc184545ccc0c851a";fetch(c,{method:"POST",mode:"no-cors",body:s}).then(()=>{t.reset(),window.location.href="/contact/success/"}).catch(()=>{alert("Sorry, there was a problem sending your message. Please try again.")}).finally(()=>{n&&(n.disabled=!1)})})}})
+Total: ${n(s)}`};t.addEventListener("submit",e=>{e.preventDefault();const s=new FormData(t),r=o(),i=a(r);i&&s.append("cart",i);const n=t.querySelector('button[type="submit"]');n&&(n.disabled=!0);const c="https://smartforms.dev/submit/68b113e4c184545ccc0c85b2";fetch(c,{method:"POST",mode:"no-cors",body:s}).then(()=>{t.reset(),window.location.href="/contact/success/"}).catch(()=>{alert("Sorry, there was a problem sending your message. Please try again.")}).finally(()=>{n&&(n.disabled=!1)})})}})
